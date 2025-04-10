@@ -10,7 +10,7 @@ class Login extends StatelessWidget {
       body: SafeArea(
           child: Row(
         children: [
-
+          
         ],
       )),
     );
