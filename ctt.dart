@@ -9,3 +9,8 @@
 //   ios_content_mode: center # Posisi gambar di iOS
 //   web_image_mode: center # Posisi gambar di Web
 //   fullscreen: true # Menyembunyikan notification bar
+
+/**
+ * JUMAT AKU MASIH BIKIN TAMPILAN LOGIN PAGE RENCANA MINGGU INI AUTHENTICATIONNYA UDAH JADI JUGA
+ * 
+ */
